@@ -13,7 +13,7 @@
 - _variables_
                                    
 
-4 boletin4 [aqui][ejercicio4]
+4 boletin [aqui][ejercicio4]
 
 
 
