@@ -12,10 +12,10 @@
 - _functions_ 
 - _variables_
  ### Todos mis boletines de actividades                                
-- 1 boletin                                  
-- 2 boletin                                   
-- 3 boletin 
-- 4 boletin [aqui][ejercicio4]
+ 1. boletin                                  
+ 2. boletin                                   
+ 3. boletin 
+ 4. boletin [aqui][ejercicio4]
 
 
 
