@@ -11,9 +11,11 @@
 - _loops_                                   
 - _functions_ 
 - _variables_
-                                   
-
-4 boletin [aqui][ejercicio4]
+ ### Todos mis boletines de actividades                                
+- 1 boletin                                  
+- 2 boletin                                   
+- 3 boletin 
+- 4 boletin [aqui][ejercicio4]
 
 
 
