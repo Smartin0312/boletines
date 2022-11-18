@@ -10,10 +10,12 @@
 - _condicionals_                                  
 - _loops_                                   
 - _functions_ 
-- _variables_                                   
+- _variables_
+                                   
+
+4 boletin4 [aqui][ejercicio4]
 
 
-## Ejemplo de un boletin [aqui][ejercicio4]
 
 
 [ejercicio4]: https://github.com/Smartin0312/boletines/blob/master/boletinCuatro/boletinCuatro.py
