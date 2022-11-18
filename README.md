@@ -6,7 +6,7 @@
 ### Para saber que es python haz clik en este enlace  [PYTHON][sabermas]
 [sabermas]: https://blog.hubspot.es/website/que-es-python
 
-_**Common python commands:**_
+##### _**Common python commands:**_
 - _condicionals_                                  
 - _loops_                                   
 - _functions_ 
