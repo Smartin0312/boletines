@@ -6,15 +6,12 @@
 ### Para saber que es python haz clik en este enlace  [PYTHON][sabermas]
 [sabermas]: https://blog.hubspot.es/website/que-es-python
 
-_**Common git commands:**_
-- _commit_                                  
-- _pull_                                   
-- _push_                                    
-- _fetch_                                   
-- _merge_                                    
-- _checkout_                                
-- _branch_                                  
-- _b_ 
+_**Common python commands:**_
+- _condicionals_                                  
+- _loops_                                   
+- _functions_ 
+- _variables_                                   
+
 
 ## Ejemplo de un boletin [aqui][ejercicio4]
 
