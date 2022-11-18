@@ -16,7 +16,7 @@ _**Common git commands:**_
 - _branch_                                  
 - _b_ 
 
-## ejemplo de un boletin [aqui][ejercicio4]
+## Ejemplo de un boletin [aqui][ejercicio4]
 
 
 [ejercicio4]: https://github.com/Smartin0312/boletines/blob/master/boletinCuatro/boletinCuatro.py
